@@ -1,6 +1,6 @@
-  =>  Template Name    : Salone - Beauty Salon Website Template
+  =>  Template Name    : Securex - CCTV Camera Website Template
 
-  =>  Template Link    : https://htmlcodex.com/beauty-salon-website-template
+  =>  Template Link    : https://htmlcodex.com/cctv-camera-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
