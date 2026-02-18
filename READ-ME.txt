@@ -1,6 +1,6 @@
-  =>  Template Name    : Sparlex - Beauty & Spa Website Template
+  =>  Template Name    : Salone - Beauty Salon Website Template
 
-  =>  Template Link    : https://htmlcodex.com/spa-website-template
+  =>  Template Link    : https://htmlcodex.com/beauty-salon-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
